@@ -1,0 +1,9 @@
+app/music/playlist/model/Album.class
+app/music/playlist/config/AlbumConfig.class
+app/music/playlist/model/Genre.class
+app/music/playlist/PlaylistApplication.class
+app/music/playlist/controller/AlbumController.class
+app/music/playlist/APIController.class
+app/music/playlist/model/Song.class
+app/music/playlist/repository/AlbumRepository.class
+app/music/playlist/service/AlbumService.class
